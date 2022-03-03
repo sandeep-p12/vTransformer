@@ -4,9 +4,9 @@
 
 Useful Links:
 
-Research Paper: https://arxiv.org/pdf/2010.11929.pdf
-GitHub (Official) Link: https://github.com/google-research/vision_transformer
-GitHub (Keras) Link: https://github.com/faustomorales/vit-keras
+- Research Paper: https://arxiv.org/pdf/2010.11929.pdf
+- GitHub (Official) Link: https://github.com/google-research/vision_transformer
+- GitHub (Keras) Link: https://github.com/faustomorales/vit-keras
 
 ##### Highlights of this notebook:
 
